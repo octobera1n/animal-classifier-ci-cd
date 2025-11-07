@@ -2,3 +2,4 @@ gradio
 tensorflow
 pillow
 numpy
+gdown
